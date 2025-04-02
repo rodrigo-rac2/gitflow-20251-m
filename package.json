@@ -1,0 +1,12 @@
+{
+  "name": "gitflow-20251-m",
+  "version": "1.0.0",
+  "description": "aula de demonstracao do gitflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
